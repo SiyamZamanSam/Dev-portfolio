@@ -219,7 +219,11 @@ input {
 .Footer-section02 input[type="text"],
 input[type="email"],
 input[type="textarea"] {
-  width: 100%;
+  /* width: 100%; */
+  width: 461px;
+}
+.Footer-section02 input[type=textarea]{
+    height: 180px;
 }
 .FSection-Title {
   font-weight: 700;
